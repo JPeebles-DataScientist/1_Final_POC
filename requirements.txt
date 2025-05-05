@@ -3,3 +3,7 @@ scikit-learn
 streamlit
 folium
 streamlit-folium
+streamlit
+ipython
+pandas
+numpy
